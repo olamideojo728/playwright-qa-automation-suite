@@ -1,4 +1,4 @@
-
+ Playwright QA Automation Suite
 A professional-grade end‑to‑end testing framework built with Playwright.
 
  Overview
